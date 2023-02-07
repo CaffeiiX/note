@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "af70f40a2caafa2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb691696d1ab38b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习/深度理解计算机系统/attackLab.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9437661f22c3fd2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c5dbd7a5118a8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad153dfceab2bba6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d45f958704ae96aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a84e0b419feaa677",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88c52358eb00aca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b89d1102e2f6f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7bff3c35ac1a91b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习/深度理解计算机系统/attackLab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6d5451fb0f6c67d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习/深度理解计算机系统/attackLab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2d00d9cd9d9d132",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e436deed2339045c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/深度理解计算机系统/attackLab.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 544,
+    "collapsed": true
+  },
+  "active": "deb691696d1ab38b",
+  "lastOpenFiles": [
+    "学习/深度理解计算机系统/attackLab.md"
+  ]
+}
