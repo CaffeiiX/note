@@ -11,10 +11,8 @@
             "id": "a15b523e9e2119c5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/image/Pasted image 20221223000258.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/image/Pasted image 20221223000258.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/image/Pasted image 20221223000258.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/image/Pasted image 20221223000258.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,17 +148,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ad153dfceab2bba6",
+  "active": "c2d00d9cd9d9d132",
   "lastOpenFiles": [
     "学习/深度理解计算机系统/笔记/链接.md",
+    "学习/深度理解计算机系统/笔记/链接.md",
+    "assets/image/Pasted image 20221223000258.jpg",
     "assets/image/Pasted image 20230208004654.png",
     "学习/前端/博客/构建你自己的React.md",
     "学习/深度理解计算机系统/笔记/缓存.md",
     "学习/前端/博客/JavaScript 代码内存管理.md",
     "学习/深度理解计算机系统/作业/CacheLab.md",
     "学习/深度理解计算机系统/作业/Lab/CacheLab/cachelab.pdf",
-    "学习/深度理解计算机系统/作业/Lab/CacheLab/cachelab_【彩云小译】.pdf",
-    "学习/深度理解计算机系统/作业/attackLab.md",
-    "学习/深度理解计算机系统/作业/Lab/CacheLab/waside-blocking.pdf"
+    "学习/深度理解计算机系统/作业/Lab/CacheLab/cachelab_【彩云小译】.pdf"
   ]
 }
