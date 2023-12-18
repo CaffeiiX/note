@@ -3,5 +3,7 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc",
+  "obsidian-reminder-plugin"
 ]

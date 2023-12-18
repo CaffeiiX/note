@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0aef69c5b9564168",
+        "id": "5c06ac6b292396fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a15b523e9e2119c5",
+            "id": "b089c054b7c3bb63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "读后感/彷徨.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a5c2d7b8e8f522b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "读后感/彷徨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +110,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "读后感/彷徨.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "读后感/彷徨.md"
+              }
             }
           },
           {
@@ -128,9 +144,25 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "d755649967d1c4b9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "5089196d89d18459",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,27 +170,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c2d00d9cd9d9d132",
+  "active": "ad153dfceab2bba6",
   "lastOpenFiles": [
-    "学习/深度理解计算机系统/笔记/链接.md",
-    "学习/深度理解计算机系统/笔记/链接.md",
-    "assets/image/Pasted image 20221223000258.jpg",
-    "assets/image/Pasted image 20230208004654.png",
+    "工作/前端本地调试远程测试地址.md",
+    "工作/幸运抽奖规则梳理.md",
+    "计划/2023 书单.md",
+    "计划/2023 学习计划.md",
+    "计划/2023 影视剧清单.md",
+    "学习/前端/博客/mini-webpack.md",
+    "学习/前端/博客/babel-plugin.md",
+    "学习/前端/博客/洋葱模式.md",
+    "Excalidraw/资源兼容内外网展示方案.png",
+    "Excalidraw/资源兼容内外网展示方案.md",
+    "学习/前端/typescript/类型体操.md",
+    "工作/机器人",
     "学习/前端/博客/构建你自己的React.md",
+    "静态资源/img/8405145493996aa82d23d9ec01939f7.jpg",
+    "学习/深度理解计算机系统/笔记/链接.md",
     "学习/深度理解计算机系统/笔记/缓存.md",
-    "学习/前端/博客/JavaScript 代码内存管理.md",
-    "学习/深度理解计算机系统/作业/CacheLab.md",
+    "学习/深度理解计算机系统/笔记/处理器体系结构.md",
+    "计划/计划表/每日.md",
+    "读后感/彷徨.md",
+    "工作/寿险app个养前端流程.md",
+    "学习/深度理解计算机系统/笔记/系统级IO.md",
+    "学习/前端/typescript",
+    "计划/每日计划/未命名",
+    "计划/计划表",
+    "学习/图形学/光栅化.md",
+    "Pasted image 20230619235147.png",
+    "Pasted image 20230619235022.png",
+    "Pasted image 20230619234719.png",
+    "Pasted image 20230619234246.png",
+    "Pasted image 20230619233023.png",
+    "Pasted image 20230619232828.png",
+    "Pasted image 20230619232331.png",
+    "Pasted image 20230619231711.png",
+    "未命名.canvas",
+    "计划",
+    "静态资源/未命名.md",
+    "静态资源/img",
+    "学习/图形学/观测变换.md",
+    "静态资源",
+    "学习/图形学/变换.md",
+    "学习/深度理解计算机系统/笔记/异常控制流.md",
+    "静态资源/img/未命名 1.canvas",
+    "静态资源/img/未命名.canvas",
+    "学习/图形学",
     "学习/深度理解计算机系统/作业/Lab/CacheLab/cachelab.pdf",
-    "学习/深度理解计算机系统/作业/Lab/CacheLab/cachelab_【彩云小译】.pdf"
+    "学习/前端/博客/JavaScript 代码内存管理.md",
+    "Excalidraw/Drawing 2023-03-24 15.58.37.excalidraw.md",
+    "Excalidraw"
   ]
 }
