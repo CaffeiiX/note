@@ -11,11 +11,9 @@
             "id": "b089c054b7c3bb63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "读后感/彷徨.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230619235147.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读后感/彷徨.md",
+                "file": "Pasted image 20230619235147.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读后感/彷徨.md",
+                "file": "Pasted image 20230619235147.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读后感/彷徨.md"
+                "file": "Pasted image 20230619235147.png"
               }
             }
           },
@@ -180,8 +178,20 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ad153dfceab2bba6",
+  "active": "b089c054b7c3bb63",
   "lastOpenFiles": [
+    "Pasted image 20230619235022.png",
+    "Pasted image 20230619234719.png",
+    "Pasted image 20230619233023.png",
+    "Pasted image 20230619231410.png",
+    "Pasted image 20230619231013.png",
+    "Pasted image 20230619225825.png",
+    "Pasted image 20230615234945.png",
+    "Pasted image 20230614233953.png",
+    "Pasted image 20230614233334.png",
+    "Pasted image 20230614230811.png",
+    "Pasted image 20230614230404.png",
+    "读后感/彷徨.md",
     "工作/前端本地调试远程测试地址.md",
     "工作/幸运抽奖规则梳理.md",
     "计划/2023 书单.md",
@@ -190,31 +200,20 @@
     "学习/前端/博客/mini-webpack.md",
     "学习/前端/博客/babel-plugin.md",
     "学习/前端/博客/洋葱模式.md",
-    "Excalidraw/资源兼容内外网展示方案.png",
     "Excalidraw/资源兼容内外网展示方案.md",
     "学习/前端/typescript/类型体操.md",
     "工作/机器人",
     "学习/前端/博客/构建你自己的React.md",
-    "静态资源/img/8405145493996aa82d23d9ec01939f7.jpg",
     "学习/深度理解计算机系统/笔记/链接.md",
     "学习/深度理解计算机系统/笔记/缓存.md",
     "学习/深度理解计算机系统/笔记/处理器体系结构.md",
     "计划/计划表/每日.md",
-    "读后感/彷徨.md",
     "工作/寿险app个养前端流程.md",
     "学习/深度理解计算机系统/笔记/系统级IO.md",
     "学习/前端/typescript",
     "计划/每日计划/未命名",
     "计划/计划表",
     "学习/图形学/光栅化.md",
-    "Pasted image 20230619235147.png",
-    "Pasted image 20230619235022.png",
-    "Pasted image 20230619234719.png",
-    "Pasted image 20230619234246.png",
-    "Pasted image 20230619233023.png",
-    "Pasted image 20230619232828.png",
-    "Pasted image 20230619232331.png",
-    "Pasted image 20230619231711.png",
     "未命名.canvas",
     "计划",
     "静态资源/未命名.md",
